@@ -1,6 +1,7 @@
 # Wind Power Generation Forecasting
-![Project Banner](https://via.placeholder.com/800x200?text=Wind+Power+Forecasting+Dashboard)  
-*(Replace with actual dashboard screenshot)*
+![Project Banner]
+<img width="1863" height="730" alt="image" src="https://github.com/user-attachments/assets/4a1512f1-d77d-4659-96fb-293278390d08" />
+
 
 ## 🌟 Project Overview
 
