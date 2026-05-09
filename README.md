@@ -1,8 +1,4 @@
 # Wind Power Generation Forecasting
-
-**Machine Learning Solution for Renewable Energy Optimization**  
-*Built for Environmental & ML Intern Applications*
-
 ![Project Banner](https://via.placeholder.com/800x200?text=Wind+Power+Forecasting+Dashboard)  
 *(Replace with actual dashboard screenshot)*
 
